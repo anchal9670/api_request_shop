@@ -1,16 +1,36 @@
-# api_request_shop
+## Product Api Request 
 
-A new Flutter project.
+Flutter application that get http request from dummyjson 
+
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [License](#license)
+
+## Description
+
+A detailed description of your project. Explain what it does, why it's useful, and any other relevant information that users or contributors should know.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure you have met the following requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- [Git](https://git-scm.com/downloads)
 
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/anchal9670/api_request_shop.git
+
+## License
+### This project is licensed under the [License Name] License - see the LICENSE.md file for details.
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
